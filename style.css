@@ -3,3 +3,6 @@ div#primero{
 	width: '50%';
 	height: '100%'
 }
+button#boton:hover{
+	transform: scale(1.2);
+}
